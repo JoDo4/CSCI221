@@ -1,0 +1,7 @@
+9 Clubs
+10 Clubs
+Queen Clubs
+King Clubs
+Ace Clubs
+Jack Spades
+Jack Clubs

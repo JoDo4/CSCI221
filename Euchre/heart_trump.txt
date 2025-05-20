@@ -1,0 +1,7 @@
+9 Hearts
+10 Hearts
+Queen Hearts
+King Hearts
+Ace Hearts
+Jack Diamonds
+Jack Hearts

@@ -1,0 +1,7 @@
+9 Spades
+10 Spades
+Queen Spades
+King Spades
+Ace Spades
+Jack Clubs
+Jack Spades
